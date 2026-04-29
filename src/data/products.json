@@ -1,0 +1,408 @@
+[
+  {
+    "id": "prolix-1",
+    "name": "Prolix Industrial Grade Lubricant",
+    "category": "prolix-lubricants",
+    "type": "Lubricant",
+    "description": "High-performance Prolix lubricant for optimal machinery operation and reduced friction.",
+    "specifications": {
+      "volume": "20 Liters",
+      "application": "CNC & VMC Machines",
+      "brand": "Prolix"
+    },
+    "image": "/src/assets/images/prolix.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "cnc-1",
+    "name": "High Torque Servo Motor",
+    "category": "cnc-vmc-parts",
+    "type": "Electric Part",
+    "description": "Premium servo motor for precise CNC and VMC operations.",
+    "specifications": {
+      "power": "1.5 kW",
+      "voltage": "220V AC",
+      "brand": "Premium Parts"
+    },
+    "image": "/src/assets/images/cnc.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "p1",
+    "name": "SCLCR/L Boring Bar",
+    "category": "boring-bars",
+    "type": "Internal Turning",
+    "description": "Standard boring bar for internal turning applications with CCMT inserts.",
+    "specifications": {
+      "material": "Steel / Carbide Shank",
+      "size": "10mm - 32mm Diameter",
+      "coating": "Nickel Plated"
+    },
+    "image": "/src/assets/images/sumitomo/p1.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "p2",
+    "name": "CNMG 120408 Grade AC8025P",
+    "category": "Indexable Inserts",
+    "type": "Turning Insert",
+    "description": "Double-sided 80° rhombic inserts for steel machining.",
+    "specifications": {
+      "material": "Carbide",
+      "size": "12mm Edge",
+      "coating": "CVD (TiCN+Al2O3+TiN)"
+    },
+    "image": "/src/assets/images/sumitomo/p2.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "p3",
+    "name": "WGEH High-Stability Holder",
+    "category": "external-holders",
+    "type": "Turning Holder",
+    "description": "External holder for high-precision turning with WNMG inserts.",
+    "specifications": {
+      "material": "Hardened Steel",
+      "size": "25x25mm Shank",
+      "coating": "Black Oxide"
+    },
+    "image": "/src/assets/images/sumitomo/p3.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "p4",
+    "name": "FMA01 Face Mill",
+    "category": "milling-cutters",
+    "type": "Face Milling",
+    "description": "High-efficiency face milling cutter for general purpose machining.",
+    "specifications": {
+      "material": "Alloy Steel",
+      "size": "50mm - 160mm",
+      "coating": "Chrome Plated"
+    },
+    "image": "/src/assets/images/sumitomo/p4.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "p5",
+    "name": "DHE Carbide Drill",
+    "category": "drills-reamers",
+    "type": "Solid Carbide Drill",
+    "description": "Internal coolant through drill for deep hole operations.",
+    "specifications": {
+      "material": "Sub-micron Carbide",
+      "size": "3mm - 20mm",
+      "coating": "TiAlN"
+    },
+    "image": "/src/assets/images/sumitomo/p5.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "p6",
+    "name": "HPC Endmill 4-Flute",
+    "category": "endmills",
+    "type": "Solid Carbide Endmill",
+    "description": "High-performance cutter for stainless steel and titanium.",
+    "specifications": {
+      "material": "Carbide",
+      "size": "6mm - 25mm",
+      "coating": "AlCrN"
+    },
+    "image": "/src/assets/images/sumitomo/p6.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s1",
+    "name": "Sumitomo AC8025P Turning Insert",
+    "category": "Grades",
+    "type": "Indexable Insert",
+    "description": "High-performance Sumitomo turning insert for steel machining with CVD coating.",
+    "specifications": {
+      "material": "Carbide",
+      "grade": "AC8025P",
+      "brand": "Sumitomo"
+    },
+    "image": "/src/assets/images/sumitomo/inserts.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s2",
+    "name": "Sumitomo SCLCR Boring Bar",
+    "category": "boring-bars",
+    "type": "Internal Turning",
+    "description": "Precision boring bar by Sumitomo for stable internal turning operations.",
+    "specifications": {
+      "material": "High-speed Steel",
+      "size": "Standard",
+      "brand": "Sumitomo"
+    },
+    "image": "/src/assets/images/sumitomo/boring.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s3",
+    "name": "Sumitomo FMA01 Face Mill",
+    "category": "milling-cutters",
+    "type": "Face Milling",
+    "description": "Sumitomo high-efficiency face mill for industrial metal removal.",
+    "specifications": {
+      "diameter": "100mm",
+      "inserts": "10",
+      "brand": "Sumitomo"
+    },
+    "image": "/src/assets/images/sumitomo/milling.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s4",
+    "name": "Sumitomo HPC Endmill",
+    "category": "endmills",
+    "type": "Solid Carbide",
+    "description": "High-performance Sumitomo endmill with advanced AlCrN coating.",
+    "specifications": {
+      "flutes": "4",
+      "diameter": "12mm",
+      "brand": "Sumitomo"
+    },
+    "image": "/src/assets/images/sumitomo/drills.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s5",
+    "name": "Sumitomo DHE Carbide Drill",
+    "category": "drills-reamers",
+    "type": "Solid Carbide Drill",
+    "description": "Internal coolant through drill by Sumitomo for deep hole drilling.",
+    "specifications": {
+      "material": "Sub-micron Carbide",
+      "size": "8mm",
+      "brand": "Sumitomo"
+    },
+    "image": "/src/assets/images/sumitomo/s15.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s6",
+    "name": "Sumitomo GND Grooving Tool",
+    "category": "grooving-tools",
+    "type": "Grooving & Parting",
+    "description": "Robust Sumitomo tool holder for high-stability grooving operations.",
+    "specifications": {
+      "shank": "25x25mm",
+      "type": "External",
+      "brand": "Sumitomo"
+    },
+    "image": "/src/assets/images/sumitomo/grooving.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s7",
+    "name": "Sumitomo SEC-WaveMill",
+    "category": "milling-cutters-special",
+    "type": "Milling Cutter",
+    "description": "Complex geometry milling cutter by Sumitomo for high-feed applications.",
+    "specifications": {
+      "series": "WaveMill",
+      "coating": "Premium",
+      "brand": "Sumitomo"
+    },
+    "image": "/src/assets/images/sumitomo/cbn.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s8",
+    "name": "Sumitomo WDX Indexable Drill",
+    "category": "modular-tools",
+    "type": "Indexable Drill",
+    "description": "Exchangeable head drill system by Sumitomo for versatile drilling.",
+    "specifications": {
+      "heads": "Exchangeable",
+      "size": "20mm-40mm",
+      "brand": "Sumitomo"
+    },
+    "image": "/src/assets/images/sumitomo/s17.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s9",
+    "name": "Sumitomo Threading Tool",
+    "category": "threading-tools",
+    "type": "Threading",
+    "description": "Precision threading tool by Sumitomo with high-quality carbide inserts.",
+    "specifications": {
+      "pitch": "Universal",
+      "material": "Carbide",
+      "brand": "Sumitomo"
+    },
+    "image": "/src/assets/images/sumitomo/threading.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s10",
+    "name": "Sumitomo Multi-Drill Set",
+    "category": "drills-reamers",
+    "type": "Drill Set",
+    "description": "Comprehensive set of high-precision Sumitomo carbide drills.",
+    "specifications": {
+      "count": "10 Pieces",
+      "range": "3mm-12mm",
+      "brand": "Sumitomo"
+    },
+    "image": "/src/assets/images/sumitomo/grades.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s11",
+    "name": "Sumiboron CBN Insert",
+    "category": "sumiboron",
+    "type": "CBN Insert",
+    "description": "High-speed CBN insert for hardened steel machining.",
+    "specifications": {
+      "material": "CBN",
+      "application": "Hardened Steel",
+      "brand": "Sumitomo"
+    },
+    "image": "/src/assets/images/sumitomo/s12.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s12",
+    "name": "Sumidia Diamond Insert",
+    "category": "sumidia",
+    "type": "PCD Insert",
+    "description": "Polycrystalline diamond insert for non-ferrous materials.",
+    "specifications": {
+      "material": "PCD",
+      "application": "Aluminum/Copper",
+      "brand": "Sumitomo"
+    },
+    "image": "/src/assets/images/sumitomo/s13.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s13",
+    "name": "AC1030U PVD Turning Grade",
+    "category": "Grades",
+    "type": "PVD Insert",
+    "description": "Precision PVD coated grade for stainless steel and small part machining.",
+    "specifications": {
+      "material": "Carbide",
+      "coating": "PVD (Super TiAlN)",
+      "application": "Stainless Steel"
+    },
+    "image": "/src/assets/images/sumitomo/s14.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s14",
+    "name": "WNMG 080408 Turning Insert",
+    "category": "Indexable Inserts",
+    "type": "Negative Insert",
+    "description": "80° Trigon shape insert for versatile roughing and finishing.",
+    "specifications": {
+      "material": "Carbide",
+      "size": "08mm",
+      "grade": "AC8025P"
+    },
+    "image": "/src/assets/images/sumitomo/s15.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s15",
+    "name": "MSM High-Precision Drill",
+    "category": "drills-reamers",
+    "type": "Solid Carbide",
+    "description": "Miniature drill for high-precision micro-hole machining.",
+    "specifications": {
+      "diameter": "0.5mm - 2.0mm",
+      "material": "Carbide",
+      "coating": "Uncoated/PVD"
+    },
+    "image": "/src/assets/images/sumitomo/s16.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s16",
+    "name": "SEC-WaveMill WGC Type",
+    "category": "milling-cutters",
+    "type": "Face Mill",
+    "description": "High-feed milling cutter for rapid material removal in steel and cast iron.",
+    "specifications": {
+      "series": "WGC",
+      "diameter": "63mm-160mm",
+      "inserts": "8-12"
+    },
+    "image": "/src/assets/images/sumitomo/s17.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s17",
+    "name": "Small Bore Mini-Bar",
+    "category": "small-tools",
+    "type": "Boring Tool",
+    "description": "Micro boring bar for extremely small internal diameters starting from 2mm.",
+    "specifications": {
+      "min_bore": "2.0mm",
+      "shank": "Carbide",
+      "application": "Internal Turning"
+    },
+    "image": "/src/assets/images/sumitomo/s18.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s18",
+    "name": "Clamping Screws Set",
+    "category": "parts",
+    "type": "Spare Parts",
+    "description": "High-strength clamping screws for various tool holders and milling cutters.",
+    "specifications": {
+      "material": "Alloy Steel",
+      "sizes": "M2 - M6",
+      "pack": "10 Pieces"
+    },
+    "image": "/src/assets/images/sumitomo/s19.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s19",
+    "name": "Shim Plates & Wedges",
+    "category": "parts",
+    "type": "Spare Parts",
+    "description": "Precision shim plates and wedges for accurate insert positioning and clamping.",
+    "specifications": {
+      "material": "Hardened Steel",
+      "types": "Universal",
+      "brand": "Sumitomo"
+    },
+    "image": "/src/assets/images/sumitomo/s20.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s20",
+    "name": "Machining Calculator Guide",
+    "category": "technical-guidance",
+    "type": "Reference",
+    "description": "Comprehensive guide for calculating speeds, feeds, and machining power.",
+    "specifications": {
+      "format": "Digital/Print",
+      "language": "English",
+      "topic": "Optimization"
+    },
+    "image": "/src/assets/images/sumitomo/s21.png",
+    "catalogLink": "#"
+  },
+  {
+    "id": "s21",
+    "name": "Material Grade Chart",
+    "category": "technical-guidance",
+    "type": "Reference",
+    "description": "Detailed cross-reference chart for matching Sumitomo grades with work materials.",
+    "specifications": {
+      "materials": "Steel, Stainless, Iron",
+      "updates": "2024 Edition",
+      "brand": "Sumitomo"
+    },
+    "image": "/src/assets/images/sumitomo/technical_unique.png",
+    "catalogLink": "#"
+  }
+]

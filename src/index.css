@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-primary: #004da8;
+  --color-brand-secondary: #00a0e9;
+  --color-industrial-dark: #121212;
+  --color-industrial-gray: #2a2a2a;
+  --color-industrial-light: #e5e5e5;
+  --color-industrial-accent: #f39c12;
+}
+
+:root {
+  font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: dark;
+  background-color: var(--color-industrial-dark);
+  color: var(--color-industrial-light);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Outfit', sans-serif;
+  letter-spacing: -0.02em;
+}
+
+.glass-morphism {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.industrial-gradient {
+  background: linear-gradient(135deg, #121212 0%, #2a2a2a 100%);
+}
+
+.metal-shine {
+  position: relative;
+  overflow: hidden;
+}
+
+.metal-shine::after {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent);
+  transform: rotate(45deg);
+  transition: 0.5s;
+}
+
+.metal-shine:hover::after {
+  left: 100%;
+  top: 100%;
+}
