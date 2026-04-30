@@ -3,132 +3,132 @@
     "id": "prolix-lubricants",
     "title": "Prolix Lubricants",
     "description": "High-quality industrial lubricants for optimal CNC and VMC machine performance.",
-    "image": "/src/assets/images/prolix.png"
+    "image": "/images/prolix.png"
   },
   {
     "id": "cnc-vmc-parts",
     "title": "CNC / VMC Electric Parts",
     "description": "Premium electrical and mechanical components for CNC and VMC machines.",
-    "image": "/src/assets/images/cnc.png"
+    "image": "/images/cnc.png"
   },
   {
     "id": "Grades",
     "title": "Grades",
     "description": "Comprehensive range of cutting tool grades for various machining needs.",
-    "image": "/src/assets/images/sumitomo/grades.png"
+    "image": "/images/sumitomo/grades.png"
   },
   {
     "id": "Indexable Inserts",
     "title": "Indexable Inserts",
     "description": "High-performance indexable inserts for precision machining.",
-    "image": "/src/assets/images/sumitomo/inserts.png"
+    "image": "/images/sumitomo/inserts.png"
   },
   {
     "id": "external-holders",
     "title": "External Holders",
     "description": "Durable external holders for stable and efficient cutting operations.",
-    "image": "/src/assets/images/sumitomo/boring.png"
+    "image": "/images/sumitomo/boring.png"
   },
   {
     "id": "small-tools",
     "title": "Small Tools",
     "description": "Compact tools designed for precision and small-scale machining tasks.",
-    "image": "/src/assets/images/sumitomo/grooving.png"
+    "image": "/images/sumitomo/grooving.png"
   },
   {
     "id": "boring-bars",
     "title": "Boring Bars",
     "description": "High-precision boring bars for internal machining applications.",
-    "image": "/src/assets/images/sumitomo/p1.png"
+    "image": "/images/sumitomo/p1.png"
   },
   {
     "id": "grooving-tools",
     "title": "Grooving Tools",
     "description": "Efficient grooving tools for accurate cutting and shaping operations.",
-    "image": "/src/assets/images/sumitomo/p2.png"
+    "image": "/images/sumitomo/p2.png"
   },
   {
     "id": "cut-off-tools",
     "title": "Cut-Off Tools",
     "description": "Reliable cut-off tools for parting and cutting applications.",
-    "image": "/src/assets/images/sumitomo/p3.png"
+    "image": "/images/sumitomo/p3.png"
   },
   {
     "id": "threading-tools",
     "title": "Threading Tools",
     "description": "Precision threading tools for internal and external threading operations.",
-    "image": "/src/assets/images/sumitomo/threading.png"
+    "image": "/images/sumitomo/threading.png"
   },
   {
     "id": "tooling-system",
     "title": "Tooling System / Cartridges",
     "description": "Advanced tooling systems and cartridges for enhanced productivity.",
-    "image": "/src/assets/images/sumitomo/p4.png"
+    "image": "/images/sumitomo/p4.png"
   },
   {
     "id": "milling-cutters",
     "title": "Milling Cutters",
     "description": "Versatile milling cutters for high-speed and precision machining.",
-    "image": "/src/assets/images/sumitomo/milling.png"
+    "image": "/images/sumitomo/milling.png"
   },
   {
     "id": "modular-tools",
     "title": "Modular Tools",
     "description": "Flexible modular tooling solutions for various machining setups.",
-    "image": "/src/assets/images/sumitomo/p1.png"
+    "image": "/images/sumitomo/p1.png"
   },
   {
     "id": "milling-cutters-special",
     "title": "Milling Cutters (Special Purpose)",
     "description": "Specialized milling cutters for custom industrial applications.",
-    "image": "/src/assets/images/sumitomo/p4.png"
+    "image": "/images/sumitomo/p4.png"
   },
   {
     "id": "endmills",
     "title": "Endmills",
     "description": "High-quality endmills for precision cutting and finishing.",
-    "image": "/src/assets/images/sumitomo/p6.png"
+    "image": "/images/sumitomo/p6.png"
   },
   {
     "id": "drills-reamers",
     "title": "Drills / Reamers",
     "description": "Reliable drilling and reaming tools for accurate hole making.",
-    "image": "/src/assets/images/sumitomo/drills.png"
+    "image": "/images/sumitomo/drills.png"
   },
   {
     "id": "carbide-brazed",
     "title": "Carbide Materials / Brazed Tools",
     "description": "Durable carbide materials and brazed tools for heavy-duty machining.",
-    "image": "/src/assets/images/sumitomo/p5.png"
+    "image": "/images/sumitomo/p5.png"
   },
   {
     "id": "sumiboron",
     "title": "SUMIBORON",
     "description": "Advanced CBN tools for high-speed and hardened material machining.",
-    "image": "/src/assets/images/sumitomo/cbn.png"
+    "image": "/images/sumitomo/cbn.png"
   },
   {
     "id": "sumidia",
     "title": "SUMIDIA",
     "description": "Premium diamond tools for ultra-precision cutting applications.",
-    "image": "/src/assets/images/sumitomo/p2.png"
+    "image": "/images/sumitomo/p2.png"
   },
   {
     "id": "sumicrystal",
     "title": "SUMICRYSTAL",
     "description": "High-performance single crystal diamond tools.",
-    "image": "/src/assets/images/sumitomo/p3.png"
+    "image": "/images/sumitomo/p3.png"
   },
   {
     "id": "parts",
     "title": "Parts",
     "description": "Essential spare parts and components for tooling systems.",
-    "image": "/src/assets/images/sumitomo/parts_unique.png"
+    "image": "/images/sumitomo/parts_unique.png"
   },
   {
     "id": "technical-guidance",
     "title": "Technical Guidance / References",
     "description": "Technical documents and references for machining solutions.",
-    "image": "/src/assets/images/sumitomo/technical_unique.png"
+    "image": "/images/sumitomo/technical_unique.png"
   }
 ]

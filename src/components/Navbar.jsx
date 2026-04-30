@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { Menu, X, Hammer, Search } from 'lucide-react';
 import { path } from 'framer-motion/client';
-import logo from '../assets/images/logo.png';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -24,7 +23,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-20">
           <div className="flex items-center">
             <Link to="/" className="flex items-center gap-2">
-              <img src={logo} alt="RN Enterprise" className="h-10 w-auto object-contain" />
+              <img src="/images/logo.png" alt="RN Enterprise" className="h-10 w-auto object-contain" />
               {/* <span className="text-2xl font-bold tracking-tighter text-white">
                 RN <span className="text-brand-secondary">ENTERPRISE</span>
               </span> */}

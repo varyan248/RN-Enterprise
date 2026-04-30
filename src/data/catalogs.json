@@ -3,133 +3,133 @@
     "id": "PROLIX-1",
     "title": "Prolix Industrial Brochure",
     "size": "Unknown",
-    "thumbnail": "/src/assets/images/prolix.png",
+    "thumbnail": "/images/prolix.png",
     "downloadUrl": "https://prolixlubricants.com/wp-content/uploads/2023/10/PROLIX-INDUSTRIAL-BROCHURE.pdf"
   },
   {
     "id": "A",
     "title": "Grades",
     "size": "3.2 MB",
-    "thumbnail": "/src/assets/images/sumitomo/grades.png",
+    "thumbnail": "/images/sumitomo/grades.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/a.pdf"
   },
   {
     "id": "B",
     "title": "Indexable Insert",
     "size": "10.1 MB",
-    "thumbnail": "/src/assets/images/sumitomo/inserts.png",
+    "thumbnail": "/images/sumitomo/inserts.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/b.pdf"
   },
   {
     "id": "C",
     "title": "External Holders",
     "size": "3.3 MB",
-    "thumbnail": "/src/assets/images/sumitomo/boring.png",
+    "thumbnail": "/images/sumitomo/boring.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/c.pdf"
   },
   {
     "id": "D",
     "title": "Small Tools",
     "size": "3.8 MB",
-    "thumbnail": "/src/assets/images/sumitomo/grooving.png",
+    "thumbnail": "/images/sumitomo/grooving.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/d.pdf"
   },
   {
     "id": "E",
     "title": "Boring Bars",
     "size": "6.5 MB",
-    "thumbnail": "/src/assets/images/sumitomo/boring.png",
+    "thumbnail": "/images/sumitomo/boring.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/e.pdf"
   },
   {
     "id": "F1",
     "title": "Grooving Tools",
     "size": "6.2 MB",
-    "thumbnail": "/src/assets/images/sumitomo/grooving.png",
+    "thumbnail": "/images/sumitomo/grooving.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/f1.pdf"
   },
   {
     "id": "F2",
     "title": "Cut-Off Tools",
     "size": "2.6 MB",
-    "thumbnail": "/src/assets/images/sumitomo/grooving.png",
+    "thumbnail": "/images/sumitomo/grooving.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/f2.pdf"
   },
   {
     "id": "F3",
     "title": "Threading Tools",
     "size": "1.2 MB",
-    "thumbnail": "/src/assets/images/sumitomo/threading.png",
+    "thumbnail": "/images/sumitomo/threading.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/f3.pdf"
   },
   {
     "id": "G",
     "title": "Tooling System / Cartridges",
     "size": "3.0 MB",
-    "thumbnail": "/src/assets/images/sumitomo/boring.png",
+    "thumbnail": "/images/sumitomo/boring.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/g.pdf"
   },
   {
     "id": "H1",
     "title": "Milling Cutters",
     "size": "25.3 MB",
-    "thumbnail": "/src/assets/images/sumitomo/milling.png",
+    "thumbnail": "/images/sumitomo/milling.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/h1.pdf"
   },
   {
     "id": "H2",
     "title": "Modular Tools",
     "size": "2.2 MB",
-    "thumbnail": "/src/assets/images/sumitomo/boring.png",
+    "thumbnail": "/images/sumitomo/boring.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/h2.pdf"
   },
   {
     "id": "H3",
     "title": "Milling Cutters (Special Purpose)",
     "size": "1.1 MB",
-    "thumbnail": "/src/assets/images/sumitomo/milling.png",
+    "thumbnail": "/images/sumitomo/milling.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/h3.pdf"
   },
   {
     "id": "I",
     "title": "Endmills",
     "size": "22.4 MB",
-    "thumbnail": "/src/assets/images/sumitomo/drills.png",
+    "thumbnail": "/images/sumitomo/drills.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/i.pdf"
   },
   {
     "id": "J",
     "title": "Drills / Reamers",
     "size": "15.5 MB",
-    "thumbnail": "/src/assets/images/sumitomo/drills.png",
+    "thumbnail": "/images/sumitomo/drills.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/j.pdf"
   },
   {
     "id": "K",
     "title": "Carbide Materials / Brazed Tools",
     "size": "1.9 MB",
-    "thumbnail": "/src/assets/images/sumitomo/drills.png",
+    "thumbnail": "/images/sumitomo/drills.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/k.pdf"
   },
   {
     "id": "L",
     "title": "SUMIBORON",
     "size": "7.3 MB",
-    "thumbnail": "/src/assets/images/sumitomo/cbn.png",
+    "thumbnail": "/images/sumitomo/cbn.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/l.pdf"
   },
   {
     "id": "N1",
     "title": "Parts",
     "size": "1.2 MB",
-    "thumbnail": "/src/assets/images/sumitomo/drills.png",
+    "thumbnail": "/images/sumitomo/drills.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/n1.pdf"
   },
   {
     "id": "N2",
     "title": "Technical Guidance / References",
     "size": "1.1 MB",
-    "thumbnail": "/src/assets/images/sumitomo/grades.png",
+    "thumbnail": "/images/sumitomo/grades.png",
     "downloadUrl": "https://www.sumitool.com/en/downloads/cutting-tools/general-catalog/assets/pdf/n2.pdf"
   }
 ]

@@ -3,7 +3,6 @@ import { motion } from 'framer-motion';
 import { ArrowRight, ChevronRight, Settings, Wrench, Zap, Cpu, Droplet } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import categories from '../data/categories.json';
-import heroImage from '../assets/images/hero.png';
 
 const Home = () => {
   return (
@@ -12,7 +11,7 @@ const Home = () => {
       <section className="relative min-h-[90vh] flex items-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src={heroImage} 
+            src="/images/hero.png" 
             alt="Industrial Background" 
             className="w-full h-full object-cover opacity-30"
           />

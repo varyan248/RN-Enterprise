@@ -10,7 +10,7 @@
       "application": "CNC & VMC Machines",
       "brand": "Prolix"
     },
-    "image": "/src/assets/images/prolix.png",
+    "image": "/images/prolix.png",
     "catalogLink": "#"
   },
   {
@@ -24,7 +24,7 @@
       "voltage": "220V AC",
       "brand": "Premium Parts"
     },
-    "image": "/src/assets/images/cnc.png",
+    "image": "/images/cnc.png",
     "catalogLink": "#"
   },
   {
@@ -38,7 +38,7 @@
       "size": "10mm - 32mm Diameter",
       "coating": "Nickel Plated"
     },
-    "image": "/src/assets/images/sumitomo/p1.png",
+    "image": "/images/sumitomo/p1.png",
     "catalogLink": "#"
   },
   {
@@ -52,7 +52,7 @@
       "size": "12mm Edge",
       "coating": "CVD (TiCN+Al2O3+TiN)"
     },
-    "image": "/src/assets/images/sumitomo/p2.png",
+    "image": "/images/sumitomo/p2.png",
     "catalogLink": "#"
   },
   {
@@ -66,7 +66,7 @@
       "size": "25x25mm Shank",
       "coating": "Black Oxide"
     },
-    "image": "/src/assets/images/sumitomo/p3.png",
+    "image": "/images/sumitomo/p3.png",
     "catalogLink": "#"
   },
   {
@@ -80,7 +80,7 @@
       "size": "50mm - 160mm",
       "coating": "Chrome Plated"
     },
-    "image": "/src/assets/images/sumitomo/p4.png",
+    "image": "/images/sumitomo/p4.png",
     "catalogLink": "#"
   },
   {
@@ -94,7 +94,7 @@
       "size": "3mm - 20mm",
       "coating": "TiAlN"
     },
-    "image": "/src/assets/images/sumitomo/p5.png",
+    "image": "/images/sumitomo/p5.png",
     "catalogLink": "#"
   },
   {
@@ -108,7 +108,7 @@
       "size": "6mm - 25mm",
       "coating": "AlCrN"
     },
-    "image": "/src/assets/images/sumitomo/p6.png",
+    "image": "/images/sumitomo/p6.png",
     "catalogLink": "#"
   },
   {
@@ -122,7 +122,7 @@
       "grade": "AC8025P",
       "brand": "Sumitomo"
     },
-    "image": "/src/assets/images/sumitomo/inserts.png",
+    "image": "/images/sumitomo/inserts.png",
     "catalogLink": "#"
   },
   {
@@ -136,7 +136,7 @@
       "size": "Standard",
       "brand": "Sumitomo"
     },
-    "image": "/src/assets/images/sumitomo/boring.png",
+    "image": "/images/sumitomo/boring.png",
     "catalogLink": "#"
   },
   {
@@ -150,7 +150,7 @@
       "inserts": "10",
       "brand": "Sumitomo"
     },
-    "image": "/src/assets/images/sumitomo/milling.png",
+    "image": "/images/sumitomo/milling.png",
     "catalogLink": "#"
   },
   {
@@ -164,7 +164,7 @@
       "diameter": "12mm",
       "brand": "Sumitomo"
     },
-    "image": "/src/assets/images/sumitomo/drills.png",
+    "image": "/images/sumitomo/drills.png",
     "catalogLink": "#"
   },
   {
@@ -178,7 +178,7 @@
       "size": "8mm",
       "brand": "Sumitomo"
     },
-    "image": "/src/assets/images/sumitomo/s15.png",
+    "image": "/images/sumitomo/s15.png",
     "catalogLink": "#"
   },
   {
@@ -192,7 +192,7 @@
       "type": "External",
       "brand": "Sumitomo"
     },
-    "image": "/src/assets/images/sumitomo/grooving.png",
+    "image": "/images/sumitomo/grooving.png",
     "catalogLink": "#"
   },
   {
@@ -206,7 +206,7 @@
       "coating": "Premium",
       "brand": "Sumitomo"
     },
-    "image": "/src/assets/images/sumitomo/cbn.png",
+    "image": "/images/sumitomo/cbn.png",
     "catalogLink": "#"
   },
   {
@@ -220,7 +220,7 @@
       "size": "20mm-40mm",
       "brand": "Sumitomo"
     },
-    "image": "/src/assets/images/sumitomo/s17.png",
+    "image": "/images/sumitomo/s17.png",
     "catalogLink": "#"
   },
   {
@@ -234,7 +234,7 @@
       "material": "Carbide",
       "brand": "Sumitomo"
     },
-    "image": "/src/assets/images/sumitomo/threading.png",
+    "image": "/images/sumitomo/threading.png",
     "catalogLink": "#"
   },
   {
@@ -248,7 +248,7 @@
       "range": "3mm-12mm",
       "brand": "Sumitomo"
     },
-    "image": "/src/assets/images/sumitomo/grades.png",
+    "image": "/images/sumitomo/grades.png",
     "catalogLink": "#"
   },
   {
@@ -262,7 +262,7 @@
       "application": "Hardened Steel",
       "brand": "Sumitomo"
     },
-    "image": "/src/assets/images/sumitomo/s12.png",
+    "image": "/images/sumitomo/s12.png",
     "catalogLink": "#"
   },
   {
@@ -276,7 +276,7 @@
       "application": "Aluminum/Copper",
       "brand": "Sumitomo"
     },
-    "image": "/src/assets/images/sumitomo/s13.png",
+    "image": "/images/sumitomo/s13.png",
     "catalogLink": "#"
   },
   {
@@ -290,7 +290,7 @@
       "coating": "PVD (Super TiAlN)",
       "application": "Stainless Steel"
     },
-    "image": "/src/assets/images/sumitomo/s14.png",
+    "image": "/images/sumitomo/s14.png",
     "catalogLink": "#"
   },
   {
@@ -304,7 +304,7 @@
       "size": "08mm",
       "grade": "AC8025P"
     },
-    "image": "/src/assets/images/sumitomo/s15.png",
+    "image": "/images/sumitomo/s15.png",
     "catalogLink": "#"
   },
   {
@@ -318,7 +318,7 @@
       "material": "Carbide",
       "coating": "Uncoated/PVD"
     },
-    "image": "/src/assets/images/sumitomo/s16.png",
+    "image": "/images/sumitomo/s16.png",
     "catalogLink": "#"
   },
   {
@@ -332,7 +332,7 @@
       "diameter": "63mm-160mm",
       "inserts": "8-12"
     },
-    "image": "/src/assets/images/sumitomo/s17.png",
+    "image": "/images/sumitomo/s17.png",
     "catalogLink": "#"
   },
   {
@@ -346,7 +346,7 @@
       "shank": "Carbide",
       "application": "Internal Turning"
     },
-    "image": "/src/assets/images/sumitomo/s18.png",
+    "image": "/images/sumitomo/s18.png",
     "catalogLink": "#"
   },
   {
@@ -360,7 +360,7 @@
       "sizes": "M2 - M6",
       "pack": "10 Pieces"
     },
-    "image": "/src/assets/images/sumitomo/s19.png",
+    "image": "/images/sumitomo/s19.png",
     "catalogLink": "#"
   },
   {
@@ -374,7 +374,7 @@
       "types": "Universal",
       "brand": "Sumitomo"
     },
-    "image": "/src/assets/images/sumitomo/s20.png",
+    "image": "/images/sumitomo/s20.png",
     "catalogLink": "#"
   },
   {
@@ -388,7 +388,7 @@
       "language": "English",
       "topic": "Optimization"
     },
-    "image": "/src/assets/images/sumitomo/s21.png",
+    "image": "/images/sumitomo/s21.png",
     "catalogLink": "#"
   },
   {
@@ -402,7 +402,7 @@
       "updates": "2024 Edition",
       "brand": "Sumitomo"
     },
-    "image": "/src/assets/images/sumitomo/technical_unique.png",
+    "image": "/images/sumitomo/technical_unique.png",
     "catalogLink": "#"
   }
 ]
